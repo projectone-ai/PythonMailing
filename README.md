@@ -44,4 +44,4 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Thiago Toffanelli - [https://www.linkedin.com/in/thiagotoffanelli/](https://www.projectone.ai) - admin@projectone.ai
+Thiago Toffanelli - [https://www.linkedin.com/in/thiagotoffanelli/](https://www.linkedin.com/in/thiagotoffanelli/) - admin@projectone.ai
